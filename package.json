@@ -11,7 +11,7 @@
     "deploy:contracts": "hardhat run scripts/deploy.ts"
   },
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "^3.470.0",
+    "@aws-sdk/client-dynamodb": "^3.716.0",
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
     "@openzeppelin/contracts": "^5.0.0",
